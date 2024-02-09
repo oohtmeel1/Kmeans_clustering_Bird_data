@@ -1,5 +1,4 @@
-# Unsup2
-UnsupAlgs
+#Machine Learning
 
 Species identification is an important part of conservation efforts. This project attempts to use the Birds bones and living habits data set to label species based on skeletal features.The idea is that birds skeletal structure should be varied enough to allow for easy and simple identification. The data labels are:
 
